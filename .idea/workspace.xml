@@ -7,22 +7,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8fcf975-e83b-46dd-9c04-c06981bf3a98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/CarComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/PetrolEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Rims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Tires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/Wheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dagger2Example/app/src/main/java/com/example/dagger2example/WheelsModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForegroundServices/app/src/main/java/com/example/foregroundservices/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForegroundServices/app/src/main/java/com/example/foregroundservices/ExampleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ForegroundServices/app/src/main/res/drawable/ic_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/uitestexpressodemo/ExampleInstrumentedTest.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/uitestexpressodemo/MainActivityTest.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/uitestexpressodemo/SecondaryActivityTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uitestexpressodemo/MainActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uitestexpressodemo/SecondaryActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_secondary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/uitestexpressodemo/ExampleUnitTest.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +64,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z1DsZ5ckpr8g6VzBDvfqLwq3Ri" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
